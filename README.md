@@ -4,7 +4,7 @@
 ## Grob-Planung
 
 In der zweiten Lehrperiode möchte ich ein Projekt machen 
-## 16.9.2026
+## 16.10.2026
 
 Heute habe ich ein zahlenratespiel mit catch gemacht
 
@@ -12,7 +12,7 @@ Heute habe ich ein zahlenratespiel mit catch gemacht
 
 - [ ] das es sagt wen man über dem limit ist oder unter dem limit und fragen ob man nochmals spielen will
 
-## 18.9.2026
+## 23.10.2026
 
 - [ ] Projekt suchen
 - [ ] Projekt anfangen
