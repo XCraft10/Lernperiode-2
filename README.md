@@ -16,7 +16,7 @@ Heute habe ich ein zahlenratespiel mit catch gemacht
 
 - [ ] Projekt suchen
 - [ ] Projekt anfangen
-- [ ] 
+- [ ] hallo
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
