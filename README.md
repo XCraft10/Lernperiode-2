@@ -10,7 +10,7 @@ Heute habe ich ein zahlenratespiel mit catch gemacht
 
 ## Hausaufgaben
 
-- [ ] das es sagt wen man über dem limit ist oder unter dem limit und fragen ob man nochmals spielen will
+- [x] das es sagt wen man über dem limit ist oder unter dem limit und fragen ob man nochmals spielen will
 
 ## 23.10.2026
 
