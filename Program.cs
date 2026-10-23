@@ -4,7 +4,7 @@ Console.WriteLine("Hello, World!");
 
 //Arrays
 
-const string modi = ("Welchen Modus wollen Sie verwenden?\nSpiel\n\nSpieler\n\nMusik");
+const string modi = ("Welchen Modus wollen Sie verwenden?\nSpiel\n\nSpieler\n\nMusik\n\nChalange");
 
 
 
