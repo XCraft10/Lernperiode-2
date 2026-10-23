@@ -14,9 +14,10 @@ Heute habe ich ein zahlenratespiel mit catch gemacht
 
 ## 23.10.2026
 
-- [ ] Projekt suchen
-- [ ] Projekt anfangen
-- [ ] hallo
+- [ ] Party spiel anfangen
+- [ ] Spiele in Arrays voreingeben
+- [ ] selber spiele in einen Arrasy hinzufügen
+- [ ] 
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
