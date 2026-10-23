@@ -10,7 +10,7 @@ Heute habe ich ein zahlenratespiel mit catch gemacht
 
 ## Hausaufgaben
 
-- [x] das man ein modi auswälen kann mit switch/switch state anschauen
+- [ ] das man ein modi auswälen kann mit switch/switch state anschauen
 
 ## 23.10.2026
 
