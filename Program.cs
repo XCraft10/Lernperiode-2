@@ -22,10 +22,16 @@ switch (modis)
 
 
         break;
-    
+    case "Spieler":
 
+        break;
 
+    case"Misik":
 
+        break;
+    case "Chalange":
+
+        break;
 
 
 
