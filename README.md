@@ -4,19 +4,20 @@
 ## Grob-Planung
 
 In der zweiten Lehrperiode möchte ich ein Projekt machen das ein spiel eine person und eine musik auswält 
-## 16.10.2026
+## 30.10.2026
 
-Heute habe ich ein zahlenratespiel mit catch gemacht
+Heute habe ich Programmiert das man Spieler hinzufügen kann und wieder entfernen 
+Code Zeile **30**
 
 ## Hausaufgaben
 
-- [ ] das man ein modi auswälen kann mit switch/switch state anschauen
+- [ ] Das man ins Menu zurückkommt
 
-## 23.10.2026
+## 6.11.2026
 
-- [ ] static lehrenen und integrieren
-- [ ] Spiele in Arrays voreingeben
-- [ ] selber spiele in einen Arrasy hinzufügen
-
+- [ ] Das man eine Challenge hinzufügen kann
+- [ ] das man Challenge entfernen kann
+- [ ] Das es eine Challenge Zufällig auswählt
+- [ ] Das es die Challenge Ausgiebt
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
