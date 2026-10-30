@@ -7,7 +7,8 @@ In der zweiten Lehrperiode möchte ich ein Projekt machen das ein spiel eine per
 ## 30.10.2026
 
 Heute habe ich Programmiert das man Spieler hinzufügen kann und wieder entfernen 
-Code Zeile **30**
+
+Code Zeile ***30***
 
 ## Hausaufgaben
 
