@@ -66,14 +66,15 @@ List<string> AllSpieler()
                 case ConsoleKey.D1:
 
                     Console.WriteLine("Geben sie den Namen des Neuen Spielers ein");
+                    string name = Console.ReadLine();
 
-                    if (string.IsNullOrWhiteSpace(Console.ReadLine()))
+                    if (string.IsNullOrWhiteSpace(name))
                     {
                         Spieler.Add("Spieler " + Spieler12++);
                     }
                     else
                     {
-                        Spieler.Add(Console.ReadLine());
+                        Spieler.Add(name);
                     }
                     break;
 
@@ -119,12 +120,12 @@ List<string> AllChallenge()
             {
                 case (ConsoleKey.D1):
                     Console.WriteLine("Geben Sie die Neue Challenge ein");
-
-                    if (string.IsNullOrWhiteSpace(Console.ReadLine()))
+                    string name = Console.ReadLine();
+                    if (string.IsNullOrWhiteSpace(name))
                     {}
                     else
                     {
-                        Challenges.Add(Console.ReadLine());
+                        Challenges.Add(name);
                     }
                     break;
 
