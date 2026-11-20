@@ -12,7 +12,7 @@ Heute habe ich Programmiert das es Spieler und Challenges in einer .txt abspeich
 
 ## Hausaufgaben
 
-- [ ] Das es mit spieler hinzufügen wieder nfunktioniert
+- [x] Das es mit spieler hinzufügen wieder nfunktioniert
 
 ## 20.11.2026
 
