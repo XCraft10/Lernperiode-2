@@ -12,15 +12,19 @@ Heute habe ich Programmiert das es Spieler und Challenges in einer .txt abspeich
 
 ## Hausaufgaben
 
-- [x] Das es mit spieler hinzufügen wieder nfunktioniert
-
+- [x] Das es mit spieler hinzufügen wieder funktioniert
+- [ ] Spiele in .txt abspeichern
 ## 20.11.2026
 
 
-- [ ] Spiel Erstelen können
-- [ ] Spiele hinzufügen
+- [X] Spiel Erstelen können
+- [X] Spiele hinzufügen
 - [ ] Spiele in .txt abspeichern
 
+## 20.11.2026
 
+- [ ] Spiele aufrufen
+- [ ] Musik Hiznzufügen Können
+- [ ] Musik Entfernen Können
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen
